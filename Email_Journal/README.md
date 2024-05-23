@@ -1,5 +1,4 @@
 # Email Journaling
-#### Video Demo:  <URL HERE>
 #### Description:
 My Email Journaling software gives people the opportunity to keep track of their experiences and achievements throughout their weeks. To be able to create this project, I was required to create a custom email address for me to send email invitations and to receive the journals. Sending invitations is done through the method: 
 > def send_journal_email(email: str)
